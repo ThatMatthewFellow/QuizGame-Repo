@@ -1,4 +1,5 @@
 # Download QuizGame.v4 to get the most recent version
+I'm still learning git and github, so this is a little messy to look at, but all versions are here, and the most recent is stated above.
 
 # Quiz Game - ThatMatthewFellow
 

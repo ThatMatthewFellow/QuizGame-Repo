@@ -3,7 +3,7 @@ I'm still learning git and github, so this is a little messy to look at, but all
 
 # Quiz Game - ThatMatthewFellow
 
-Here's a little quiz game with functions, structs, and a main program (currently consisting of 4 questions).
+Here's a quiz game creator. With these files, you can create a complete quiz game in c++ using only the structs and functions.
 
 ## What is in this program?
 
